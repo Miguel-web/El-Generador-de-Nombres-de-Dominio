@@ -5,11 +5,6 @@ import "./style.css";
 import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
-// window.onload = function() {
-//   //write your code here
-//   document.querySelector("#domains").innerHTML = domainGenerator();
-// };
-
 // const pronouns = ["the", "our"];
 // const adjs = ["great", "big"];
 // const nouns = ["jogger", "racoon"];
