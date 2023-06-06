@@ -40,7 +40,7 @@ const domainGenerator = () => {
     for (let adj of adjs) {
       for (let noun of nouns) {
         for (let exten of extens) {
-          dominio += `<p>${pronoun} ${adj} ${noun} ${exten}</p>`;
+          dominio += `<p>${pronoun}${adj}${noun}${exten}</p>`;
         }
       }
     }
